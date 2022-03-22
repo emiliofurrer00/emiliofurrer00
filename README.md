@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @emiliofurrer00
+- 👀 I’m interested in Programming as a whole, but moreso in Web Development and Javascript!
+- 🌱 I’m currently  going through fullstackopen course and expanding my JS knowledge with 33-js-concepts repository
+- 💞️ I’m looking to collaborate on JS/Python open source projects
