@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emiliofurrer00
 - 👀 I’m interested in Programming as a whole, but moreso in Web Development and Javascript!
-- 🌱 I’m currently going through fullstackopen course and expanding my JS knowledge with 33-js-concepts repository
+- 🌱 I’m currently going through Devlights Fullstack .NET && Angular bootcamp and expanding my JS knowledge with 33-js-concepts repository
 - 💞️ I’m looking to collaborate on JS/Python open source projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiliofurrer00)](https://github.com/anuraghazra/github-readme-stats)
